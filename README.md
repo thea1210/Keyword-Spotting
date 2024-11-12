@@ -1,1 +1,3 @@
 # Keyword-Spotting
+
+This repository contains code and resources for keyword spotting (KWS), a technique used in speech recognition to detect predefined keywords or phrases in audio. It includes implementations using machine learning models, audio preprocessing, and feature extraction methods. The goal is to efficiently identify specific words or commands in real-time audio streams, often used in applications like voice assistants, embedded systems, and security systems.
